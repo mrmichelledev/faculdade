@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/mrmic/OneDrive/Documentos/UFG/aed1/unidade 04/lista1 - unidade 4 (Maria Michelle - 202401809)/lista dinamica simplismente encadeada",
+      "program": "c:/Users/mrmic/OneDrive/Documentos/UFG/aed1/unidade 04/lista1 - unidade 4 (Maria Michelle - 202401809)/lista dinamica simplismente encadeada/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

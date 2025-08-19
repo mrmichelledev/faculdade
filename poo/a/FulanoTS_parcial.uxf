@@ -1,0 +1,38 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>70</x><y>120</y><w>380</w><h>290</h></coordinates><panel_attributes>/FTSAbstract::Professor/
+&lt;&lt;abstract&gt;&gt;
+--
+-nome: String
+-nTurmas: int
+-salário: double
+--
++Professor(String nome, int nTurmas, double salário): ctor
++elaborarProvas(): Prova[]
++corrigirProva(Prova prova): double
++getNome(): String
++setNome(String nome): void
++getnTurmas(): int
++setnTurmas(int nTurmas): void
++getSalário(): double
+-setSalário(double salário): void
++estudar(): void
++receberSalário(int nTurmas): void
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>300</x><y>0</y><w>170</w><h>90</h></coordinates><panel_attributes>&lt;&lt;interface&gt;&gt;
+FTSAbstract::Estudante
+--
+--
++estudar(): void
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>0</y><w>250</w><h>90</h></coordinates><panel_attributes>&lt;&lt;interface&gt;&gt;
+FTSAbstract::FuncionárioAssalariado
+--
+--
+~receberSalário(int nTurmas): void
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>140</x><y>440</y><w>180</w><h>70</h></coordinates><panel_attributes>FTSAbstract::Principal
+--
+--
++main(String[] args): void
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>110</x><y>80</y><w>120</w><h>60</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;100;40</additional_attributes></element><element><id>Relation</id><coordinates><x>270</x><y>80</y><w>120</w><h>60</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>100;10;10;40</additional_attributes></element><element><id>UMLNote</id><coordinates><x>470</x><y>220</y><w>160</w><h>70</h></coordinates><panel_attributes>Matricula: 2024123456
+Nome: Fulano de Tal Silva</panel_attributes><additional_attributes></additional_attributes></element></diagram>

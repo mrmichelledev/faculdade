@@ -1,0 +1,36 @@
+                  >>> RELATÓRIO DE DESEMPENHO <<<
+Testes Realizados Com Valores De N = {100, 500, 1.000, 5.000, 10.000}
+---------------------------------------------------------------------
+
+Tempo para inserir 100 elementos no inicio da lista: 0 milissegundo
+Tempo para inserir 100 elementos no final da lista: 0 milissegundo
+Tempo para consultar 100 elementos da lista: 0 milissegundo
+
+Tempo para inserir 500 elementos no inicio da lista: 0 milissegundo
+Tempo para inserir 500 elementos no final da lista: 0 milissegundo
+Tempo para consultar 500 elementos da lista: 0 milissegundo
+
+Tempo para inserir 1000 elementos no inicio da lista: 0 milissegundo
+Tempo para inserir 1000 elementos no final da lista: 0 milissegundo
+Tempo para consultar 1000 elementos da lista: 0 milissegundo
+
+Tempo para inserir 5000 elementos no inicio da lista: 0 milissegundo
+Tempo para inserir 5000 elementos no final da lista: 0 milissegundo
+Tempo para consultar 5000 elementos da lista: 0 milissegundo
+
+Tempo para inserir 10000 elementos no inicio da lista: 0 milissegundo
+Tempo para inserir 10000 elementos no final da lista: 0 milissegundo
+Tempo para consultar 10000 elementos da lista: 0 milissegundo
+
+Tempo para inserir 50000 elementos no inicio da lista: 0 milissegundo
+Tempo para inserir 50000 elementos no final da lista: 0 milissegundo
+Tempo para consultar 50000 elementos da lista: 0 milissegundo
+
+Tempo para inserir 100000 elementos no inicio da lista: 0 milissegundo
+Tempo para inserir 100000 elementos no final da lista: 0 milissegundo
+Tempo para consultar 100000 elementos da lista: 0 milissegundo
+
+-----------------------------------
+
+Tempo total para a execução dos testes: 1244427 milissegundo
+

@@ -1,0 +1,5 @@
+1.Defina, usando as suas palavras, o problema de ordenação.
+> O problema da ordenação é conseguir deixar um conjunto, vetor, estrutura, lista (etc), em uma determinada sequencia, seja ela crescente, decrescente ou seguindo uma determinada regra. Ordenar pode ser uma tarefa complicada dependendo de como for executada, mas é necessário algoritmos responsáveis para organizar os elementos;
+
+2.Defina, usando as suas palavras, o problema de encontrar o menor valor em um vetor.
+>Para encontrar o menor valor de um vetor, é preciso verificar entre todos os elementos quem é o menor, que vai exigir 'n' verificações até chegar em um resultado;

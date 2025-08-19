@@ -1,0 +1,11 @@
+Compilação de múltiplos arquivos em C
+
+- Considere o exemplo. Você tem os arquivos: point.h, point.c e main.c
+
+gcc point.c main.c -o ponto
+
+
+- Compilar e linkar todos os arquivos de um diretório
+
+gcc *.c -o ponto
+
