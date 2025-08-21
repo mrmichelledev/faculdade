@@ -18,7 +18,7 @@ Aqui estão organizados os conteúdos por disciplina.
   Projetos e exercícios utilizando os conceitos de classes, herança, polimorfismo e encapsulamento.  
 
 - **Trabalho - Projeto de Análise de Desempenho/**  
-  Trabalho específico da disciplina de AED, com foco em análise de algoritmos.
+  Trabalho específico da disciplina de Arquiterura de Computadores.
 
 ---
 
